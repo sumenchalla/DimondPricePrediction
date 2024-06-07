@@ -13,6 +13,6 @@ Welcome to the **Diamond Price Prediction** project! This repository contains a 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/diamond-price-prediction.git
+   git clone https://github.com/sumenchalla/DimondPricePrediction
    cd diamond-price-prediction
 
